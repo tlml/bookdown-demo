@@ -12,4 +12,4 @@ Create a bookdown project:
 
     cookiecutter https://github.com/tlml/cookiecutter-bookdown.git
 
-(note: not quite there yet...)
+Further details to be added...
