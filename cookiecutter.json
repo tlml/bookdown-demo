@@ -1,5 +1,9 @@
 {
     "directory_name": "Doc",
     "title": "Title",
-    "author": "Author"
+    "author": "Author",
+    "_copy_without_render": [
+        "0?-*.Rmd",
+	"preamble.tex"
+    ]
 }
